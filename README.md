@@ -2,14 +2,14 @@
 
 🎯 **Data Analyst | Insight Seeker | Storyteller with Data**
 
-Welcome to my GitHub! I’m a passionate data analyst with a strong foundation in **Microsoft Excel**, **SQL**, **R programming**, and **Tableau**. I specialize in transforming raw data into meaningful insights that drive strategic decision-making and business growth.
+Welcome to my GitHub! I’m a passionate data analyst with a strong foundation in **Microsoft Excel**, **SQL**, **Python**, and **PowerBI**. I specialize in transforming raw data into meaningful insights that drive strategic decision-making and business growth.
 
 ---
 
 ## 🧰 Tech & Tools
 
-- **Languages:** R, SQL
-- **Data Tools:** Microsoft Excel (Power Query, PivotTables), Tableau
+- **Languages:** Python, SQL
+- **Data Tools:** Microsoft Excel (Power Query, PivotTables), PowerBI
 - **Database Systems:** MySQL, Google Console
 - **Other Skills:** Data Cleaning, Exploratory Data Analysis, Data Visualization, Reporting Automation
 
