@@ -17,9 +17,9 @@ Welcome to my GitHub! I’m a passionate data analyst with a strong foundation i
 
 ## 📊 What I Do
 
-- Develop and maintain interactive dashboards in Tableau and Excel
+- Develop and maintain interactive dashboards in PowerBI and Excel
 - Write complex SQL queries for data extraction and transformation   
-- Perform statistical analysis and predictive modeling using R  
+- Perform statistical analysis and visualization using Python 
 - Communicate data insights to stakeholders in a clear and actionable manner
 
 ---
