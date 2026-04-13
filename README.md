@@ -26,6 +26,8 @@ Welcome to my GitHub! I’m a passionate data analyst with a strong foundation i
 
 ## 📂 Featured Projects
 
+🔹https://github.com/Jeremiahwrites/Explorin-London-s-Travel-Network
+
 🔹https://github.com/Jeremiahwrites/Factors-that-fuels-Student-Performance
 
 🔹 https://public.tableau.com/app/profile/kehinde.jeremiah/vizzes 
