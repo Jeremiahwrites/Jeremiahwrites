@@ -26,7 +26,7 @@ Welcome to my GitHub! I’m a passionate data analyst with a strong foundation i
 
 ## 📂 Featured Projects
 
-🔹https://github.com/Jeremiahwrites/Explorin-London-s-Travel-Network
+🔹https://github.com/Jeremiahwrites/SQL-Assessment-Submission
 
 🔹https://github.com/Jeremiahwrites/Factors-that-fuels-Student-Performance
 
