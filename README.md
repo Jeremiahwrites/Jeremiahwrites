@@ -28,7 +28,7 @@ Welcome to my GitHub! I’m a passionate data analyst with a strong foundation i
 
 🔹https://github.com/Jeremiahwrites/SQL-Assessment-Submission
 
-🔹https://github.com/Jeremiahwrites/Factors-that-fuels-Student-Performance
+🔹https://github.com/Jeremiahwrites/Analyzing-Customer-Churn-in-Excel
 
 🔹 https://public.tableau.com/app/profile/kehinde.jeremiah/vizzes 
 
