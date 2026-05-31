@@ -32,8 +32,7 @@ Welcome to my GitHub! I’m a passionate data analyst with a strong foundation i
 
 🔹 https://github.com/Jeremiahwrites/HR-Analytics
 
-🔹 
-
+🔹 https://github.com/Jeremiahwrites/Drug-Safety-Hypothesis-Testing-Analysis
 ---
 
 ## 📈 Let's Connect
