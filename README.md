@@ -30,9 +30,9 @@ Welcome to my GitHub! I’m a passionate data analyst with a strong foundation i
 
 🔹https://github.com/Jeremiahwrites/Analyzing-Customer-Churn-in-Excel
 
-🔹 https://public.tableau.com/app/profile/kehinde.jeremiah/vizzes 
+🔹 https://github.com/Jeremiahwrites/HR-Analytics
 
-🔹 https://1drv.ms/x/c/be5a86038609711c/EXvLYQQAeV1OnTyLq7Zk8r4BTWBxU9PGPLjyrMxD-IEXEA?e=foBe7O
+🔹 
 
 ---
 
